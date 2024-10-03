@@ -21,22 +21,20 @@ Prerequisites
 ### Node.js installed (version 14 or above)
 ### npm installed (comes with Node.js)
 # Installation Steps
-## Clone the repository to your local machine:
+### Clone the repository to your local machine:
 
 git clone https://github.com/LYCE899/budget-manager.git
 
-## Navigate to the project directory:
-
+### Navigate to the project directory:
 cd budget-manager
-Install the necessary dependencies:
 
+### Install the necessary dependencies:
 npm install
-Start the application in development mode:
-
+### Start the application in development mode:
 npm start
 The app will be available at: http://localhost:3000
 
-Deployment on Vercel
+## Deployment on Vercel
 The application is deployed and can be viewed online at the following link: https://budget-manager-qbsu.vercel.app/
 
 # How to Use the Application

@@ -1,5 +1,4 @@
 ﻿# budget-manager
-# Budget Manager
 Description
 Budget Manager is a simple and intuitive application for managing budgets. It allows users to record their expenses, categorize them, and get an overview of their spending through a pie chart. The app helps visualize and track expenses efficiently, based on predefined categories.
 

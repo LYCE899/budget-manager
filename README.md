@@ -7,15 +7,15 @@ Add Expense: Users can add expenses by specifying the amount, date, and category
 Expense Visualization: A pie chart displays total expenses divided by category, with different colors for each category.
 Total Expenses: The total amount of expenses is calculated and displayed automatically.
 Predefined Categories: The app includes a list of predefined categories (food, transportation, rent, clothing, outings), but more categories can be added if needed.
-Screenshots
+## Screenshots
 ![Screenshot budget app](https://github.com/user-attachments/assets/3aafe4bd-248d-4439-9b24-78e7793197ce)
 
 
 # Technologies Used
-## React.js: To build an interactive user interface and manage components.
-## Chart.js with react-chartjs-2: For visualizing data as a pie chart.
-##CSS Modules: For modular styling of the application.
-## JavaScript: For handling business logic and user interactions.
+### React.js: To build an interactive user interface and manage components.
+### Chart.js with react-chartjs-2: For visualizing data as a pie chart.
+### CSS Modules: For modular styling of the application.
+### JavaScript: For handling business logic and user interactions.
 # Installation and Setup
 Prerequisites
 ### Node.js installed (version 14 or above)
@@ -45,4 +45,4 @@ After submitting an expense, it will appear in the list of expenses.
 The pie chart will automatically update to reflect the new expenses.
 The total expenses will also be updated and clearly displayed at the bottom of the page.
 
-thank youu!!
+## thank youu!!
